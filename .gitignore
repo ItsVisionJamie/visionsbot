@@ -1,0 +1,9 @@
+.env
+node_modules
+commands/_*
+music/_*
+user/_*
+mod/_*
+events/_*
+dev/_*
+json.sqlite
